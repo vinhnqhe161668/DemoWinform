@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRhxzMcPY03CUKdC4ljGq6jPibYmOEJjZa1fDz8yEvdRRhnzuceprzsNUzu5IeIQjFaRwF94XlUlveh+gMHZ4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vinh1\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\vinh1\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.20400\\selenium.webdriver.chromedriver.131.0.6778.20400.nupkg.sha512"
+  ],
+  "logs": []
+}
